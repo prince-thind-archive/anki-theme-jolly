@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+html {
+  background-color: hsl(0, 0%, 9%);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.3rem;
+  text-align: center;
+}
+.front {
+  padding: 0.5rem;
+  background-color: hsl(120, 50%, 10%);
+}
+.answer {
+  padding: 1rem;
+  background-color: hsl(0, 50%, 5%);
+}
+.example-images {
+  padding-top: 1rem;
+}
+.example-images img {
+  border: 5px solid black;
+}
